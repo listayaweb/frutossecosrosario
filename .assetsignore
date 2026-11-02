@@ -1,0 +1,11 @@
+wrangler.toml
+.assetsignore
+.git*
+.github/
+README.md
+**/*.b64
+.wrangler/
+node_modules/
+dist/
+.env*
+.dev.vars*

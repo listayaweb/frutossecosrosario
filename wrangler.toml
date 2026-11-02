@@ -1,0 +1,11 @@
+name = "frutossecosrosario"
+compatibility_date = "2026-11-02"
+workers_dev = false
+keep_vars = true
+
+[[routes]]
+pattern = "frutossecosrosario.listaya.link"
+custom_domain = true
+
+[assets]
+directory = "."
